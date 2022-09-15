@@ -15,4 +15,5 @@ and developing Disaster Recovery (DR) plans, its about developing automation to
 drive greater efficiencies within and across your business units.
 
 We'll create the tools your teams want, but didnt know they need, to help them
-work more quickly, efficiently, and intelligently, and reduce human error.
+work more quickly, efficiently, and intelligently, while significantly 
+reducing human error.
