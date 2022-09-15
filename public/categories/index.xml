@@ -5,6 +5,7 @@
     <link>https://ae.team/categories/</link>
     <description>Recent content in Categories on Automate Everything</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ae.team/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© 2022 ae.team</copyright><atom:link href="https://ae.team/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

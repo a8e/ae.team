@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Automate Everything"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+copyright = "© 2022 ae.team"
 
 [module]
   [module.hugoVersion]
@@ -13,16 +14,16 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
-    mobile_height = "36px"
-    mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    mobile = "images/ae-full.png"
+    mobile_height = "72px"
+    mobile_width = "72px"
+    desktop = "images/ae-full.png"
+    desktop_height = "100px"
+    desktop_width = "100px"
     alt = "Automate Everything"
 
   [params.homepage_meta_tags]
-    meta_description = "portfolio site."
+    meta_description = "Automate Everything (Pty) Ltd."
     meta_og_title = "Automate Everything - DevOps as a Service"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
@@ -33,8 +34,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+    name = "Services"
+    url = "/services/"
     weight = 1
 
 [[menu.main]]
