@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+We are keenly aware of the 'brain-drain' affecting businesses internationally, which is why we contribute financially to a variety of causes in South Africa and beyond, and with our time by providing 'high tech' apprenticeships to practitioners in a variety of locations.
