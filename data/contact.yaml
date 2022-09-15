@@ -1,0 +1,29 @@
+email: 'hello@ae.team'
+phone: 'XXXX XXX XXX'
+businessName: 'Automate Everything'
+address: |
+  23 Arthurs Road
+  Sea Point, Cape Town
+  South Africa, 8005
+hours:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:
