@@ -14,7 +14,7 @@ copyright = "© 2022 ae.team"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/ae-full.png"
+    mobile = "mobile-logo.png"
     mobile_height = "72px"
     mobile_width = "72px"
     desktop = "images/ae-full.png"
