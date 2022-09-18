@@ -1,5 +1,5 @@
 ---
-title: "Octiv"
+title: "Octiv Fitness"
 date: 2022-09-18T17:51:10+02:00
 draft: false
 weight: 100
