@@ -7,7 +7,6 @@ heroHeading: 'ZAbikers'
 heroSubHeading: "South Africa's #1 Biking Website!"
 heroBackground: 'https://www.zabikers.co.za/wp-content/uploads/2018/08/ZAB_Black_White-4.svg'
 thumbnail: work/zabikers.png
-image: 'work/zabikers.png'
 ---
 
 https://www.zabikers.co.za
