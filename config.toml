@@ -26,7 +26,7 @@ copyright = "© 2022 ae.team"
     meta_description = "Automate Everything (Pty) Ltd."
     meta_og_title = "Automate Everything - DevOps as a Service"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_url = "https://ae.team"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Automate Everything - DevOps products and services that scale with your business"
     meta_twitter_card = "summary"
@@ -37,6 +37,11 @@ copyright = "© 2022 ae.team"
     name = "Services"
     url = "/services/"
     weight = 1
+    
+[[menu.main]]
+    name = "Products"
+    url = "/products/"
+    weight = 3
 
 [[menu.main]]
     name = "Work"

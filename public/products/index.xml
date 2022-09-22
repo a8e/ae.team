@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Automate Everything</title>
+    <link>https://ae.team/services/</link>
+    <description>Recent content in Services on Automate Everything</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022 ae.team</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ae.team/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FinOps</title>
+      <link>https://ae.team/services/finops/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ae.team/services/finops/</guid>
+      <description>Customers with poor visibility of their infrastructure costs, and how those costs should be allocated across business units, can benefit from our FinOps services. We&amp;rsquo;ll tease through your systems, tagging it as required, while employing industry-leading technology to better understand and report on cost breakdown.
+We&amp;rsquo;ll also employ our FinOps methodology when building out &amp;lsquo;greenfield&amp;rsquo; environments to ensure systems are appropriately allocated to cost-centres, and that resources are always cost-optimised.</description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://ae.team/services/devops/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ae.team/services/devops/</guid>
+      <description>DevOps is about more than building CI/CD pipelines, Infrastructure as Code (IaC), and developing Disaster Recovery (DR) plans, its about developing automation to drive greater efficiencies within and across your business units.
+We&amp;rsquo;ll create the tools your teams want, but didnt know they need, to help them work more quickly, efficiently, and intelligently, while significantly reducing human error.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://ae.team/services/kubernetes/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://ae.team/services/kubernetes/</guid>
+      <description>Migration to the &amp;lsquo;Cloud&amp;rsquo; is hard and so is Kubernetes. Let us help you build out your new microservice infrastructure in a hardened, cost optimised, cloud agnostic, easily managed, telemetry-enabled cluster near you(r) customers!</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure Migrations</title>
+      <link>https://ae.team/services/migrations/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://ae.team/services/migrations/</guid>
+      <description>Companies have, over the past 10-15 years, enthusiastically embraced &amp;lsquo;Cloud Native&amp;rsquo; technologies and clouds. However, some organisations have preferred OPEX (Operational Expenditure) over CAPEX (Capital Expenditure) - e.g. banks - due to a variety of reasons.
+Let us help you embrace &amp;lsquo;Cloud Native&amp;rsquo;, while remaining &amp;lsquo;Cloud Agnostic&amp;rsquo;, and agressively optimising for cost!</description>
+    </item>
+    
+    <item>
+      <title>Disaster Recovery &amp; Backups</title>
+      <link>https://ae.team/services/backups/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://ae.team/services/backups/</guid>
+      <description>Everyone understands the benefits of DR plans and backups, but when was the last time you completed a DR drill? Do you know when your systems were last backed up? Do you know what the impact of backups on your live systems are? Do you know how long it will take to fully restore from backup? Is this process automated?
+Let us take care of the headache of creating, validating, and automating these processes for you, so that you can focus on your core competencies!</description>
+    </item>
+    
+    <item>
+      <title>SecOps</title>
+      <link>https://ae.team/services/secops/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://ae.team/services/secops/</guid>
+      <description>Although no system can ever be 100% impenetrable, there are an enormous number of safeguards that can be taken to significantly reduce the attack-surface of your publicly accessible systems. From system, network, and container hardening, to frequent commissioned hacker assessments, educating staff, and strong authentication and authorisation frameworks, and other considerations, we&amp;rsquo;ll work with you to shore-up your defences.</description>
+    </item>
+    
+  </channel>
+</rss>

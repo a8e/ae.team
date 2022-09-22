@@ -1,7 +1,7 @@
 ---
 title: 'We Help Business Scale Rapidly'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: ''
 button: 'Startup in a Box'
 buttonLink: 'work'
 ---

@@ -10,7 +10,7 @@ heroBackground: 'services/service2.jpg'
 ---
 
 Although no system can ever be 100% impenetrable, there are an enormous
-number of safeguards that can be taken to significantly reduce the
+number of safeguards that can be employed to significantly reduce the
 attack-surface of your publicly accessible systems. From system, network,
 and container hardening, to frequent commissioned hacker assessments, 
 educating staff, and strong authentication and authorisation frameworks,
