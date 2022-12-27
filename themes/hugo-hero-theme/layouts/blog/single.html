@@ -1,0 +1,27 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-blog-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="blog blog-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ $library := resources.Get "js/libs/library.js" }}
+{{ $blog := resources.Get "js/pages/blog.js" }}
+{{ $blogJS := slice $library $blog |resources.Concat "js/blog.js" }}
+{{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $blogJS.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($blogJS | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+{{ end }}

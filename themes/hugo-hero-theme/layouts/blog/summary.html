@@ -1,0 +1,13 @@
+<div class="blog blog-summary">
+  {{ if .Params.icon }}
+  <div class="blog-image">
+    <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
+  <div class="blog-content">
+    <h2 class="blog-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 120 "..." }}
+  </div>
+</div>
