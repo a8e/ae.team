@@ -9,4 +9,4 @@ heroSubHeading: 'The benefits inherent in remaining cloud agnostic will become c
 heroBackground: 'services/service1.jpg'
 ---
 
-This is our estimation.
+All 

@@ -8,6 +8,8 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="blog blog-single">
+        {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+        {{if .Params.author}}Author: {{.Params.Author}}{{end}}
         <div class="content">{{.Content}}</div>
       </div>
     </div>
