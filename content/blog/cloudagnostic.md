@@ -9,11 +9,11 @@ heroSubHeading: 'Where would you like to move (your workload) today?'
 heroBackground: 'services/service1.jpg'
 ---
 
-Being cloud agnostic means that an organization is not tied to a specific cloud provider or platform. It allows the organization to choose the best cloud solution for their specific needs, rather than being limited to a single provider.
+Being cloud agnostic means that an organization is not tied to a specific cloud provider or platform. It allows the organization to choose the best cloud solution for their specific needs, on a daily or even hourly basis, rather than being limited to a single provider.
 
 Some benefits of being cloud agnostic include:
 
-Flexibility: Being cloud agnostic gives an organization the flexibility to choose the best cloud solution for their specific needs. This can help them to optimize their infrastructure for cost, performance, and other factors.
+Flexibility: Being cloud agnostic gives an organization the flexibility to choose the best cloud solution for their specific needs. This can help them to optimize their infrastructure for cost, performance, latency, 'green energy' posturing, major events including submarine cable malfunction, and other factors.
 
 Vendor independence: Being cloud agnostic allows an organization to avoid vendor lock-in, which can occur when an organization becomes heavily reliant on a single cloud provider. This can give the organization more negotiating power and help them to avoid being at the mercy of a single provider.
 
