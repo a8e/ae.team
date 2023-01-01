@@ -9,6 +9,8 @@ heroSubHeading: 'Where would you like to move (your workload) today?'
 heroBackground: 'services/service1.jpg'
 ---
 
+What does 'Agnosticism' and the 'Religious World' have to do with Cloud? Good question! Most companies we've worked with over the past decade started out as 'religious fanatics' when it came to their cloud of choice, and had fully bought-in to the services offered. In doing so, they rooted themselves so deeply in the ecosystem that it was extremely difficult to consider the possibility of alternatives. We understand, and sympathise with this approach, but we'd like to suggest an alternative...
+
 Being cloud agnostic means that an organization is not tied to a specific cloud provider or platform. It allows the organization to choose the best cloud solution for their specific needs, on a daily or even hourly basis, rather than being limited to a single provider.
 
 Some benefits of being cloud agnostic include:
