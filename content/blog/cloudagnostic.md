@@ -21,6 +21,6 @@ Avoiding risk: Relying on a single cloud provider can expose an organization to 
 
 Cost savings: Being cloud agnostic allows an organization to choose the most cost-effective cloud solution for their specific needs. This can help them to reduce their overall cloud costs.
 
-Improved resilience: Being cloud agnostic can help an organization to improve their overall resilience and ability to recover from outages or other issues. By using multiple cloud providers, an organization can benefit from the built-in redundancy and failover capabilities of different platforms.
+Improved resilience: Being cloud agnostic can help an organization to improve their overall resilience and ability to recover from outages or other issues. By being capable of using multiple cloud providers, an organization can benefit from the built-in redundancy and failover capabilities of different platforms.
 
 Automate Everything advises all its customers to remain 'cloud agnostic', wherever possible, if there isnt a significant cost associated with doing so. This is easier in the context of containerised microservices, but with the right planning and foresight, it can be done for most products and services.
