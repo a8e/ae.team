@@ -24,3 +24,13 @@ simplify and improve the journey of future entrepreneurs.
 How do we do this? By keeping our costs as lean as possible, by building as much automation as possible, and by helping startups to become profitable as quickly as possible. Only once your
 business has begun generating revenue, and you're happy with our service, will our fees commence - and, if we havent already mentioned it, our Fractional DevOps Service is seriously
 competitive, so you'll remain 'Prom King/Queen' to your prospective VC throughout!
+
+Some of the many things we can help with:
+- Evaluate which SaaS business tools/services to use (Finanace, CRM, Email Marketing, SDR-as-a-Service, Cloud), and help you move between them
+- Cheapest IaaS, should you need it, for your business (In No Particular Order: AliCloud, AWS, Azure Digital Ocean, Google Cloud, Linode, etc)
+- Help you negotiate discounts on your 'Cloud' costs from day one
+- Build out your IaaS using industry best practices, while ensuring its secure, meets GDPR/POPI requirements, and is cost optimised
+- Provide your team with the software and tools needed to operate at full capacity 100% of the time
+- Provide ongoing support and consultancy services to your team to ensure they make the right architectural decisions early
+
+If you're interested in having an exploratory discussion about how we can help you build your startup fast, while saving money, feel free to reach out to us for a no-obligation call.
